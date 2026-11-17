@@ -18,7 +18,6 @@
 | 라즈베리파이 자율주행차 | 매치업 심화과정 · 4인 팀장 | Raspberry Pi 5 · YOLOv8n INT8 · 상태 머신 | [Embedded_BoardRiders](https://github.com/dlwldn4824/Embedded_BoardRiders) |
 | Temi 식당 자리 안내 로봇 | 팀 프로젝트 · 전체 기획 | Temi · 푸드테크 · 서비스 기획 | [TemiRobot](https://github.com/jangwonjun/TemiRobot) |
 | 협동로봇실습 프로젝트 `정리 중` | 수업 | [추가 예정] | 정리 후 공개 예정 |
-| 라즈베리파이 표적 추적 | [추가 예정] | 카메라 · 서보모터 제어 | [추가 예정] |
 | DofBot 분리수거 Pick & Place `진행 예정` | 수업 (Physical AI실습) | YOLO · SmolVLA · 모방학습 | — |
 | ROBOTIS 오픈소스 기반 학습 `학습 중` | [추가 예정] | AI Worker · CYCLO · VLA · 강화학습 | — |
 | 휴머노이드 로봇 산업 조사 | 글로벌 IC-PBL | WRC 2026 · 사업화 방안 | — |
