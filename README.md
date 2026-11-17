@@ -91,8 +91,8 @@
 #### DofBot 분리수거 Pick & Place — Physical AI실습 `진행 예정`
 
 - **문제**: 분리수거 대상 물체를 인식하고, 로봇팔로 집어 옮기는 Pick & Place 작업을 다룹니다.
-- **접근**: YOLO로 객체를 인식하고, SmolVLA를 모방학습으로 파인튜닝해 로봇팔을 제어할 계획입니다.
-- **사용 기술**: YOLO, SmolVLA, 모방학습, DofBot (Yahboom), Raspberry Pi 5
+- **접근**: 모방학습으로 ACT모델을 학습시켜 로봇팔 제어를 해보려고 합니다.
+- **사용 기술**: YOLO, ACT, 모방학습, DofBot (Yahboom), Raspberry Pi 5
 - **결과**: [추가 예정]
 
 #### ROBOTIS 오픈소스 기반 VLA·모방학습·강화학습 `학습 중 · 진행 예정`
